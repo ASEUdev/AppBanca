@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Nequi</string>
+    <string name="edt_numberPhone"></string>
+    <string name="btn_login">Siguiente</string>
+    <string name="txt_subPassword">No dudamos que seas tu pero es mejor confirmar ;) </string>
+    <string name="input_num1"></string>
+    <string name="input_num2"></string>
+    <string name="input_num3"></string>
+    <string name="input_num4"></string>
+    <string name="btn_subLogin">Entrar</string>
+    <string name="btn_back"></string>
+    <string name="img_logo"></string>
+    <string name="txtTotal"></string>
+    <string name="txtDisponible">Disponible</string>
+    <string name="txtHola">Hola</string>
+    <string name="txtUsuario">Admin</string>
+    <string name="title_activity_transferencia">Transferencia</string>
+    <string name="inputTransferir"></string>
+    <string name="txtNumeroTransferir"></string>
+    <string name="btnTransferir">Enviar</string>
+    <string name="btn_home1">Inicio</string>
+    <string name="btn_home2">Movimientos</string>
+    <string name="btn_home3">Servicios</string>
+    <string name="txtMostrarCodigo"></string>
+    <string name="txtTime"></string>
+    <string name="txtMensajeRetiro"></string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="previous" />
+    <string name="lorem_ipsum" />
+    <string name="first_fragment_label" />
+    <string name="second_fragment_label" />
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/retiro"
+        android:title="Retiros"
+        />
+    <item android:id="@+id/transferencia"
+        android:title="Transferencias"
+        />
+    <item android:id="@+id/servicio"
+        android:title="Servicios"
+        />
+</menu>
